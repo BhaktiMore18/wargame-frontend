@@ -7,12 +7,12 @@
   background-repeat: no-repeat;
 }
 body {
-  background-image: url("./assets/shipfight.jpg"); /* Replace with your image */
-  background-size: cover; /* Ensures the image covers the entire background */
+  background-image: url("./assets/shipfight.jpg"); 
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed; /* Keeps it static when scrolling */
-  min-height: 100vh; /* Ensures at least full screen height */
+  background-attachment: fixed; 
+  min-height: 100vh;
 }
 
 .bg-wave {
